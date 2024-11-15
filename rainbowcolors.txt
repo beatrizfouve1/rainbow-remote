@@ -4,4 +4,8 @@
 "El verde es el color cuatro del arcoíris 1"
 ·El color verde es el cuarto color del arcoiris"
 COLOR BLUE
+<<<<<<< HEAD
 color violet
+=======
+color indigo
+>>>>>>> origin/main
